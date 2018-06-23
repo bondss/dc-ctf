@@ -21,7 +21,7 @@
 
 ![](https://github.com/bondss/dc-ctf/blob/master/screenshots/Wat8.jpg "Wat")
 
-Ну да ладно, тег ```<script>``` намекает на связь с JavaScript 
+Ну да ладно, тег ```<script>``` и конкретно ```console.log``` намекает на связь с JavaScript 
 
 Пару минут в поисковиках и внезапно:
 
